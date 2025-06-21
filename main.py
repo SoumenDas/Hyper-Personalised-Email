@@ -4,22 +4,11 @@ import base64
 from PIL import Image
 import openai
 import requests
-
-import os
 from dotenv import load_dotenv
-
-import json
-
 import os
-
-import base64
-import json
 from typing import List, Dict
-from PIL import Image
-import requests
 from openai import OpenAI
 import sendgrid
-import os
 from sendgrid.helpers.mail import Mail, Email, To, Content
 
 load_dotenv(override=True)
