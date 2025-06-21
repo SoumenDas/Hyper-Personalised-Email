@@ -6,7 +6,7 @@ Today there are 4 problems in CRM Communciations:
 4. There is no way to pre-emptively simulate sending a communication to gauge if user would convert.
 
 This tool tries to solve it by:
-1. Analysing user events and define a perosna which represents the user. Note this persona is unique to user i.e. 1 to 1.
+1. Analysing user events and define a persona which represents the user. Note this persona is unique to user i.e. 1 to 1.
 2. Basis the persona, available inventory and user's latest photo from instagram's pic (assuming user has given consent), it will generate recommendations. To limit the scope, I have used fashion products.
 3. Using the recommendations, it will generate images which shows user herself/ himself wearing the recommended apparel.
 4. A personalised email is generated and sent that consists of these images and recommendations.
