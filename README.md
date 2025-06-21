@@ -10,3 +10,8 @@ This tool tries to solve it by:
 2. Basis the persona, available inventory and user's latest photo from instagram's pic (assuming user has given consent), it will generate recommendations. To limit the scope, I have used fashion products.
 3. Using the recommendations, it will generate images which shows user herself/ himself wearing the recommended apparel.
 4. A personalised email is generated and sent that consists of these images and recommendations.
+
+## Impact
+- Recommendations and communications that truly connects with user.
+- Communications that actually gets read and converts.
+
