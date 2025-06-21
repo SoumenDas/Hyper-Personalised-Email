@@ -1,4 +1,4 @@
-# Hyper-Personalised-Email
+# In Context Communications using Hyper-Personalised-Email
 Today there are 4 problelms in CRM Communciations:
 1. We do not know best time to send communication to user.
 2. We do not know best channel to send communication to user
